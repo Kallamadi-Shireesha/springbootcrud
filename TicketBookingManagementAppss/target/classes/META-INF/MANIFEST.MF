@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: navin
+Build-Jdk: 16.0.1
+Implementation-Title: TicketBookingManagementAppss
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.infotech.book.ticket.app
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/TicketBookingManagementAppss
+Created-By: Maven Integration for Eclipse
+
